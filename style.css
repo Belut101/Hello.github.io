@@ -56,8 +56,8 @@ body {
   .taaImg {
     display: flex;
     justify-content: center;
-    top: 120px;
-    left: 15px;
+    top: 110px;
+    left: 43px;
     position: absolute;
     width: 150px;
     height: auto;
